@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-ChartJS--Introduction-To-ChartJS/static/css/main.3c36fcfe.css",
+    "main.js": "/React-ChartJS--Introduction-To-ChartJS/static/js/main.438c060c.js",
+    "static/js/453.c3a3e23d.chunk.js": "/React-ChartJS--Introduction-To-ChartJS/static/js/453.c3a3e23d.chunk.js",
+    "index.html": "/React-ChartJS--Introduction-To-ChartJS/index.html",
+    "main.3c36fcfe.css.map": "/React-ChartJS--Introduction-To-ChartJS/static/css/main.3c36fcfe.css.map",
+    "main.438c060c.js.map": "/React-ChartJS--Introduction-To-ChartJS/static/js/main.438c060c.js.map",
+    "453.c3a3e23d.chunk.js.map": "/React-ChartJS--Introduction-To-ChartJS/static/js/453.c3a3e23d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c36fcfe.css",
+    "static/js/main.438c060c.js"
+  ]
+}
