@@ -1,44 +1,49 @@
 # Developer Analytics Dashboard
 
-This project is a Developer Analytics Dashboard built using React. The app displays bar, line, and pie charts to visualize developer-related statistics such as developers hired, projects completed, and revenue generated.
+This project is a **Developer Analytics Dashboard** built using React. The app displays bar, line, and pie charts to visualize developer-related statistics such as developers hired, projects completed, and revenue generated.
 
 ## Features
-* Bar Chart: 
-* Bar Chart: Visualizes developers hired, projects completed, and revenue generated per year.
-* Line Chart: Provides a time-series view of the same data.
-* Pie Chart: Displays a breakdown of the same data for each year.
 
-##Tech Stack
-* React: The core framework used for building the front-end interface.
-* Chart.js: Used for rendering different types of charts (Bar, Line, Pie).
-* JavaScript (ES6+): Core programming language for building interactivity.
+- **Bar Chart**: Visualizes developers hired, projects completed, and revenue generated per year.
+- **Line Chart**: Provides a time-series view of the same data.
+- **Pie Chart**: Displays a breakdown of the same data for each year.
 
-##Components
-* App.js: The main component which renders the dashboard and different charts.
-* BarChart.js: Responsible for rendering the bar chart.
-* LineChart.js: Responsible for rendering the line chart.
-* PieChart.js: Responsible for rendering the pie chart.
-* Data.js: Contains the static dataset used to populate the charts.
+## Tech Stack
 
+- **React**: The core framework used for building the front-end interface.
+- **Chart.js**: Used for rendering different types of charts (Bar, Line, Pie).
+- **CSS**: Custom styles to improve UI/UX.
+- **JavaScript (ES6+)**: Core programming language for building interactivity.
+
+## Components
+
+- **App.js**: The main component that renders the dashboard and different charts.
+- **BarChart.js**: Responsible for rendering the bar chart.
+- **LineChart.js**: Responsible for rendering the line chart.
+- **PieChart.js**: Responsible for rendering the pie chart.
+- **Data.js**: Contains the static dataset used to populate the charts.
 
 ## How to Run the Project
+
 ### Step 1: Clone the Repository
-`
+
+```bash
 git clone https://github.com/yourusername/developer-analytics-dashboard.git
 cd developer-analytics-dashboard
-`
+```
+
 ### Step 2: Install Dependencies
 Make sure you have Node.js installed. Then, install the necessary dependencies by running:
-`
+```bash
 npm install
-`
+```
 ### Step 3: Start the Development Server
 Run the following command to start the React development server:
-`
+```bash
 npm start
-`
+```
 ### Project Structure
-`
+```bash
 developer-analytics-dashboard/
 │
 ├── public/
@@ -52,7 +57,7 @@ developer-analytics-dashboard/
 │   └── App.css
 ├── package.json
 └── README.md
-`
+```
 ## Future Improvements
 * Add dynamic data input from users.
 * Implement additional chart types.
